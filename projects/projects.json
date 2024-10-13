@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ProEngage",
+    "desc": "I have created a sleek and professional Tech CRM Landing Page using Figma, focusing on a clean layout, user-friendly design, and modern animations to enhance the visual appeal.",
+    "image": "tech.png",
+    "category": "figma",
+    "links": {
+      "view": "https://dribbble.com/shots/25018475-ProEngage",
+      "code": ""
+    }
+  },
+  {
+    "name": "Travellia",
+    "desc": "I have designed a fully interactive Travel Website User Interface (UI) using Figma, featuring smooth and engaging animations to enhance the user experience.",
+    "image": "travel.gif",
+    "category": "figma",
+    "links": {
+      "view": "https://dribbble.com/shots/25018238-Travellia",
+      "code": ""
+    }
+  },
+  {
+    "name": "Breezer",
+    "desc": "I have designed an immersive and vibrant Breezer Drink Landing Page using Figma, with a unique scrolling bottles animation to capture the user’s attention and provide an interactive experience.",
+    "image": "drinks.gif",
+    "category": "figma",
+    "links": {
+      "view": "https://dribbble.com/shots/25018481-Breezer",
+      "code": ""
+    }
+  }
+]
